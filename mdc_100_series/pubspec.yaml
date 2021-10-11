@@ -8,6 +8,9 @@ dependencies:
   flutter:
     sdk: flutter
   intl: ^0.17.0-nullsafety.2
+  url_launcher: ^5.4.0
+  animated_text_kit: ^4.2.1
+  lottie: ^1.2.1
 
   cupertino_icons: ^1.0.3
   shrine_images: ^2.0.1
@@ -21,6 +24,14 @@ flutter:
   # TODO: Insert Fonts (103)
   uses-material-design: true
   assets:
+    - images/hotelOne.jpeg
+    - images/hotelTwo.jpeg
+    - images/hotelThree.jpeg
+    - images/hotelFour.jpeg
+    - images/hotelFive.jpeg
+    - images/hotelSix.jpeg
+    - images/pic.jpeg
+    - images/ghost.json
     - assets/diamond.png
     # TODO: Add slanted menu asset (104)
     - packages/shrine_images/0-0.jpg
